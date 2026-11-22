@@ -20,6 +20,30 @@ A solo or small (1 to 5 person) business with no accounting or admin staff. The 
 
 <img width="2545" height="1078" alt="studio_ledger_" src="https://github.com/user-attachments/assets/e265044c-4fab-41e8-9069-44c77739c342" />
 
+## Codebenders usage and build iterations
+
+Codebenders was used as the development environment to build and refine Studio Ledger. I used its coding workspace to work on the React and Vite app, review changes in the browser, and troubleshoot issues during development.
+
+### Key prompt themes
+
+These examples summarize the prompts used; they are paraphrases, not verbatim prompt logs.
+
+- “Create a clear, welcoming back-office dashboard for a solo freelance design studio. Make invoices, overdue payments, bills, and cash position easy to understand.”
+- “Add client and invoice workflows, including invoice details and a polite reminder the owner can copy.”
+- “Connect the invoice and bill information to a 30-, 60-, and 90-day cash view, with a what-if scenario for a client paying 15 days late.”
+- “Help debug the forecast calculations, chart data shape, and rendering errors, then check the result in the browser.”
+- “Make the README and project presentation clear about the prototype’s features, sample data, and limitations.”
+
+### Iterations
+
+1. **Defined the user and problem:** Focused the product on Mira, a freelance design studio owner who needs a quick way to see who owes her and what needs attention.
+2. **Built the main workflows:** Added the overview dashboard, invoices, clients, payment follow-ups, bills, and monthly summary.
+3. **Refined the cash view:** Iterated on invoice and bill timing, the forecast chart, and the 15-day late-payment scenario using sample records.
+4. **Debugged and reviewed:** Used Codebenders to inspect the project files, trace errors, and fix issues across the app. After each change, I checked the browser and terminal output to confirm the app still worked.
+5. **Prepared the submission:** Updated the presentation and README, pushed the project to GitHub, and deployed the app to Cloudflare Pages.
+
+The figures and forecast are illustrative prototype data. See **Current scope and next steps** for limitations.
+
 ## Features
 
 - **Overview dashboard**: an alert banner for overdue invoices, four metric cards (Outstanding, Collected this month, Next 30 days, Cash on hand), a cash forecast chart, a "Needs your attention" card, the latest unpaid invoices and recent payments.
