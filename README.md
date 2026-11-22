@@ -143,4 +143,4 @@ Target: solo freelancers and micro-businesses who track money in notebooks or ch
 
 ## Licence
 
-Private prototype. No licence has been chosen yet.
+No open-source licence has been selected. All rights reserved by the project author, subject to the hackathon’s applicable ownership and submission terms.
