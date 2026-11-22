@@ -12,10 +12,11 @@ A solo or small (1 to 5 person) business with no accounting or admin staff. The 
 
 ## Project Links
 
-- **Live app:** https://studio-ledger-eoy.pages.dev
 - **GitHub repository:** https://github.com/JyothiSrinivasan/studio-ledger
-- **Project presentation:** [View the PowerPoint](presentation/Studio_Ledger_Hackathon_Jyothi.pptx)
+- **Live app:** https://studio-ledger-eoy.pages.dev
 - **Demo video:** [See Studio Ledger in action](https://www.youtube.com/watch?v=O4H09XuqlqU)
+- **Project presentation:** [View the PowerPoint](presentation/Studio_Ledger_Hackathon_Jyothi.pptx)
+- **Local version:** Run the project locally using the instructions below.
 
 <img width="2545" height="1078" alt="studio_ledger_" src="https://github.com/user-attachments/assets/e265044c-4fab-41e8-9069-44c77739c342" />
 
