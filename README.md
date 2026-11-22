@@ -5,16 +5,19 @@ A responsive back-office prototype for a solo freelance design studio. It keeps 
 ## The problem
 
 Micro-businesses such as freelancers, shopkeepers, tutors and small clinics often track money in WhatsApp chats, notebooks and spreadsheets. Invoices go unsent, payments go unchased, and the owner cannot easily say who owes what or whether next month's rent, salaries and supplier bills are covered. Studio Ledger is built for a one-person back office and focuses on the money questions: who owes me, how much, since when, and what do I do today?
+
+## Who it is for
+
+A solo or small (1 to 5 person) business with no accounting or admin staff. The current sample persona is a freelance design studio, "Made by Mira", with sample clients and sample invoices in INR.
+
 ## Project Links
 
 - **Live app:** https://studio-ledger-eoy.pages.dev
 - **GitHub repository:** https://github.com/JyothiSrinivasan/studio-ledger
 - **Project presentation:** [View the PowerPoint](presentation/Studio_Ledger_Hackathon_Jyothi.pptx)
 - **Demo video:** [See Studio Ledger in action](https://www.youtube.com/watch?v=O4H09XuqlqU)
-  
-## Who it is for
 
-A solo or small (1 to 5 person) business with no accounting or admin staff. The current sample persona is a freelance design studio, "Made by Mira", with sample clients and sample invoices in INR.
+<img width="2545" height="1078" alt="studio_ledger_" src="https://github.com/user-attachments/assets/e265044c-4fab-41e8-9069-44c77739c342" />
 
 ## Features
 
