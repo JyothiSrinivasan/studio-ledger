@@ -10,7 +10,7 @@ Micro-businesses such as freelancers, shopkeepers, tutors and small clinics ofte
 - **Live app:** https://studio-ledger-eoy.pages.dev
 - **GitHub repository:** https://github.com/JyothiSrinivasan/studio-ledger
 - **Project presentation:** [View the PowerPoint](presentation/Studio_Ledger_Hackathon_Jyothi.pptx)
-- **Demo video:** [Watch the 4-minute demo](https://youtu.be/O4H09XuqIqU)
+- **Demo video:** [See Studio Ledger in action](https://www.youtube.com/watch?v=O4H09XuqlqU)
   
 ## Who it is for
 
